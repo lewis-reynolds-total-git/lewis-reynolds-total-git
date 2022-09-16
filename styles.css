@@ -31,7 +31,7 @@ img {
 .jumbotron {
   position:relative;
   overflow:hidden;
-  background-color: #228b22;
+  background-color: #3988DC;
   color: #fff;
   padding: 5rem 0px 3rem !important;
   font-family: Montserrat, sans-serif;
@@ -45,15 +45,16 @@ img {
 
 .bg-grey
 {
-  background-color: #f6f6f6;
+  background-color: #3988DC;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #3988DC;
 }
 
 .navbar-default, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #228b22;
+    background-color: #3988DC;
+  
 }
 
 .navbar-brand>img {
