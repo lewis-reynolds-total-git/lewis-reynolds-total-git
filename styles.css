@@ -47,15 +47,15 @@ img {
 
 .bg-grey
 {
-  background-color: #3988DC;
+  background-color: #cec0ed;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #3988DC;
+    background-color: #cec0ed;
 }
 
 .navbar-default, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #3988DC;
+    background-color: ##cec0ed;
   
 }
 
